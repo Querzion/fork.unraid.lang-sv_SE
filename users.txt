@@ -20,10 +20,10 @@ User name=Användarnamn
 
 ; Note: April 29, 2023 - 8 missing translations
 Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
-Invalid Key=
-Management Access=
-No users are defined=
-Save=
-Shares Access=
-SSH authorized keys=
-Syntax of the key is incorrect=
+Invalid Key=Ogiltig Nyckel
+Management Access=Administrations Tillgång
+No users are defined=Inga definierade användare
+Save=Spara
+Shares Access=Delnings Tillgång
+SSH authorized keys=SSH auktoriserade nycklar
+Syntax of the key is incorrect=Nyckelns syntax är felaktig
